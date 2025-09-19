@@ -35,8 +35,3 @@ with tab3:
     st.bar_chart(pd.DataFrame({f"{func_name}(x*t+x0)": y}))
 
 
-matplotlib
-seaborn
-numpy
-pandas
-streamlit
